@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-16T12:43:49 EST" name="Default suite" finished-at="2021-11-16T12:43:57 EST" duration-ms="7546">
+    <groups>
+    </groups>
+    <test started-at="2021-11-16T12:43:49 EST" name="Default test" finished-at="2021-11-16T12:43:57 EST" duration-ms="7546">
+      <class name="com.swaglabs.test.scripts.SmokeTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.test.scripts.SmokeTests@5f16132a]" started-at="2021-11-16T12:43:49 EST" name="init" finished-at="2021-11-16T12:43:50 EST" duration-ms="1175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.swaglabs.test.scripts.SmokeTests@5f16132a]" started-at="2021-11-16T12:43:50 EST" name="openBrowser" finished-at="2021-11-16T12:43:50 EST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testLogin()[pri:1, instance:com.swaglabs.test.scripts.SmokeTests@5f16132a]" started-at="2021-11-16T12:43:50 EST" name="testLogin" finished-at="2021-11-16T12:43:51 EST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.swaglabs.test.scripts.SmokeTests@5f16132a]" started-at="2021-11-16T12:43:51 EST" name="openBrowser" finished-at="2021-11-16T12:43:51 EST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="selectItem()[pri:2, instance:com.swaglabs.test.scripts.SmokeTests@5f16132a]" started-at="2021-11-16T12:43:51 EST" name="selectItem" finished-at="2021-11-16T12:43:57 EST" duration-ms="5552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItem -->
+        <test-method is-config="true" signature="clearOut()[pri:0, instance:com.swaglabs.test.scripts.SmokeTests@5f16132a]" started-at="2021-11-16T12:43:57 EST" name="clearOut" finished-at="2021-11-16T12:43:57 EST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearOut -->
+      </class> <!-- com.swaglabs.test.scripts.SmokeTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
